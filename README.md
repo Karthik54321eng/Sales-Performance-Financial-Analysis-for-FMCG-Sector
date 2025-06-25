@@ -61,11 +61,11 @@ Conducted a comprehensive comparison between market performance and sales target
 
 G)Finance Report :
 
-1)Financial Performance - Quarterly:
+1)Financial Performance-Quarterly:
 
 Generated Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
 
-2)Revenue Contribution - Three Divisions:
+2)Revenue Contribution-Three Divisions:
 
 Created Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
 
