@@ -10,19 +10,21 @@ B)Video Presentation :
 
 C)Excel Skills Learnt :
 
-1)Data Cleaning & Handling Null Values.
+1)Data Cleaning & Handling Null Values,
 
-2)Conditional Formatting,
+2)ETL-Extract Transform Load.
 
-3)Lookup Functions - Vlookup,Xlookup,Index Match,
+3)Conditional Formatting,
 
-4)ETL,
+4)Lookup Functions - Vlookup,Xlookup,Index-Match.
 
-5)Pivot Table,
+5)Aggragate Functions - SumIFS, CountIFS, AverageIFS.
 
-6)Power Pivot,
+6)Pivot Table,
 
-7)DAX Measures(Basics).
+7)Power Pivot & DAX Measures.
+
+8)Power Query.
 
 =========================================================================
 
